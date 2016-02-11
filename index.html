@@ -14,8 +14,12 @@
     <script>
       $(document).ready(function() {
         setTimeout(function(){
+          $("html").addClass("loading");
+        }, 500)
+        
+        setTimeout(function(){
           $("html").addClass("loaded");
-        }, 1500)
+        }, 2000)
       });
     </script>
   </body>
