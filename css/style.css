@@ -25,6 +25,6 @@ h1 {
 
 body {
   background-color: #ddd;
-  background: url("../img/oscar-keys-photo.jpg") center -238px;
+  background: url("../img/oscar-keys-photo.jpg") center 60%;
   background-size: 2000px;
 }
