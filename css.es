@@ -23,6 +23,6 @@ h1 {
 
 body {
   background-color: #ddd;
-  background: url("https://raw.githubusercontent.com/unavezfui/welcome/master/images/oscar-keys-photo.jpg") center -280px;
+  background: url("images/oscar-keys-photo.jpg") center -280px;
   background-size: 2000px;
 }
