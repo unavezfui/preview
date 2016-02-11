@@ -7,11 +7,13 @@ h1 {
   position: absolute;
   top: 50%;
   left: 50%;
-  display: block;
+  right: inherit;
+  bottom: inherit;
   width: 300px;
   height: 60px;
-  margin-left: -150px;
   margin-top: -30px;
+  margin-left: -150px;
+  display: block;
   text-align: center;
   color: rgba(255, 255, 255, 0.8);
   text-transform: uppercase;
@@ -23,6 +25,6 @@ h1 {
 
 body {
   background-color: #ddd;
-  background: url("images/oscar-keys-photo.jpg") center -280px;
+  background: url("../images/oscar-keys-photo.jpg") center -238px;
   background-size: 2000px;
 }
